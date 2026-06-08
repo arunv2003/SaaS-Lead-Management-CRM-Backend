@@ -19,7 +19,7 @@ git clone <YOUR_GITHUB_REPOSITORY_URL>
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 
-cd backend
+cd SaaS-Lead-Management-CRM-Backend
 ```
 
 ## 2. Install Dependencies
